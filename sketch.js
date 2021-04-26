@@ -34,7 +34,7 @@ function setup() {
 }
 
 function draw() {
-  background(180, 249, 165);
+  background("black");
   
    if (playerCount === 2) {
      game.update(1);
